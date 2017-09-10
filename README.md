@@ -12,6 +12,5 @@ The workflow can be separated in 6 sections:
 1. Quality Control
 2. Alignment and Variants Calling
 3. Strand Correction and Filtering
-4. Differential RNA Editing
 
 The first two steps are carried out by Bash scripts, while the others are executed entirely in R.
